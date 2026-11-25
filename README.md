@@ -9,19 +9,28 @@ Built for the [make.fun bounty "Sum up 24 November's world news in one image"](h
 ## The image
 
 A newspaper front-page poster of Tuesday 24 November 2026, drawn in code
-by `main.ts` — a symbolic world map with numbered markers, plus five
-stories:
+by `main.ts` — thirty stories verified as first reported on that day,
+across seven regions:
 
-1. **CHESS BEGINS** — Gukesh defends his world title against Sindarov in
-   Geneva; Game 1 opens the youngest championship pairing ever.
-2. **SUPERMOON** — The Beaver Moon peaks, the first of four supermoons in a
-   row, shining near the Pleiades.
-3. **TOKYO REOPENS** — The Nikkei rebounds as Tokyo trading resumes after
-   Friday's record rout and the Monday holiday.
-4. **NEW TRAIN** — The first Saryu-Kamala Express reaches Janakpur in
-   Nepal, a new weekly Ayodhya–Janakpur link.
-5. **U.S. DATA** — Consumer confidence for November is out today as Wall
-   Street watches the AI rally.
+- **Leads** — Shanghai party chief Chen Jining falls in the purge; Huang
+  is back and stocks soar (Nvidia +31.5%, Taiex +9.0%, Nikkei +3.9%);
+  Huawei is found guilty of trade-secrets theft.
+- **Europe** — Russia hits Zaporizhzhia; Ukraine hits Russian ships at
+  sea; Poland cries foul over airspace; NATO vows to defend space;
+  Zelensky urges four-way talks; the chess crown opens with a draw.
+- **Asia-Pacific** — China sentences a spy to death; Indonesia picks two
+  to replace its VP; Malaysia to send thousands back to Myanmar; the
+  first train reaches Nepal; Russian jets enter Korea's air zone; the ICJ
+  finds Myanmar guilty of genocide.
+- **Middle East** — four tankers hit by mines in Hormuz; the IRGC says it
+  hit a ship; Israel kills the Hamas security chief; Gaza meningitis
+  surges; Houthis 60 km from Aden; the Riyadh tower is hit; Iraq takes
+  Kurd oilfields.
+- **The Americas** — US confidence jumps to 103.3; the US blacklists
+  Megaspeed; the Pentagon rebukes Canada; a US drone helps nab El Chapo
+  Isidro; 25 held hostage in Cartagena.
+- **Markets and sport** — Sanofi buys Insmed for $41B; Senegal gets its
+  AFCON crown back; the Beaver Supermoon peaks.
 
 ## The program
 
